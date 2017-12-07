@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FearAndLoan
 {
-    public partial class LasVegasHotel
+    public class LasVegasHotel
     {
         //constructor without properties - will run when new LasVegasHotel() is called
         public LasVegasHotel(List<string> heroNames)
